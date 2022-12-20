@@ -71,7 +71,7 @@
   <body>
   
   <div class="sidebar">
-    <img src = "css/bins.png" height="200px" width="200px"/>
+    <img src = "css/bins.png" height="150px" width="150px"/>
     <a href="{{ URL::to('/')}}" style = "color: white">
     <i class="bi bi-house-door-fill"></i>
     <b>HOME</b></a>
